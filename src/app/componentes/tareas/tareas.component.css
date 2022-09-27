@@ -1,0 +1,16 @@
+.cursor {
+  cursor: pointer;
+}
+
+.miAvatar {
+  width: 3rem;
+  border: salmon solid 0.5px;
+  border-radius: 50%;
+  margin: 0;
+  padding: 5px;
+}
+
+#navbar,
+#card {
+  opacity: .8;
+}
